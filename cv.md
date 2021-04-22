@@ -19,6 +19,7 @@
     * TelegramAPI
   * C++
     * Qt
+    * Borderland Builder
   * SQL
     * MySQL
     * PostgreSQL
@@ -35,4 +36,4 @@
   * Faculty: Software-engineering
  
 ### About my English 
-  My level of English is Intermediate(B1)
+  My level of English is Intermediate(B1).
