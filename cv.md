@@ -6,7 +6,7 @@
   * location: Almaty, Kazakhstan
 
 ### Summary 
- I am a confident, purposeful person who brings his business to the end. I like to read books, play sports and learn something new. I want to study the development of mobile applications on the Android platform, and become a good qualified specialist
+ I am a confident, purposeful person who brings his business to the end. I like to read books, play sports and learn something new. I want to study the development of mobile applications on the Android platform, and become a good qualified specialist.
  
 ### My Skills 
   * Kotlin
@@ -36,4 +36,4 @@
   * Faculty: Software-engineering
  
 ### About my English 
-  My level of English is Intermediate(B1).
+  My level of English is Intermediate(B1)
